@@ -1,1 +1,6 @@
-# ccrespobarreda
+# Cristina
+
+## Bienvenidos
+
+- Python
+-  SQL
