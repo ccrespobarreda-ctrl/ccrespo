@@ -16,3 +16,5 @@ Passionate about Data Science and turning information into business decisions, I
 📫 Contact: c.crespobarreda@gmail.com
 
 Always open to learning, sharing knowledge, and exploring new opportunities 🤝
+
+## My Skills Include
