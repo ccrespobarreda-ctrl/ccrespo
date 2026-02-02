@@ -15,21 +15,18 @@ I work at the intersection of data, business, and technology, developing machine
 - Advanced Machine Learning
 - Cloud analytics with AWS
 
-## 💡 I’m interested in collaborating on proyects related to:
+## 💡 I’m interested in collaborating of:
 - Data analysis
 - Predictive modeling
 - Data visualization
 - Real-world AI applications
 
 If you have an interesting idea or project, I’d love to be part of it 🤝
+📫 Reach out to me at: c.crespobarreda@gmail.com
 
-🛠️ Tech I work with
-
-Python · Pandas · Scikit-Learn · SQL · PySpark · SHAP
-Power BI · Tableau · Git · AWS (S3, EC2)
 
 📫 Let’s connect
 
 I’m always open to learning, sharing knowledge, and exploring new opportunities.
 
-📫 Reach out to me at: c.crespobarreda@gmail.com
+
