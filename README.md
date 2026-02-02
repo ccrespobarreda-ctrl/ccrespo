@@ -14,10 +14,8 @@ I work at the intersection of data, business, and technology, developing machine
 ## 🌱 Currently learning
 - Advanced Machine Learning
 - Cloud analytics with AWS
-- Best practices for production-ready Data Science projects
 
-## 💡 I’m interested in collaborating on
-- Projects related to:
+## 💡 I’m interested in collaborating on proyects related to:
 - Data analysis
 - Predictive modeling
 - Data visualization
