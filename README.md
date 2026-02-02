@@ -7,21 +7,21 @@ I work at the intersection of data, business, and technology, developing machine
 ## What motivates me most:
 
 - 🧠 Understanding the why behind the data
-📊 Turning analysis into actionable strategies
-⚙️ Building reproducible and well-structured solutions
-🚀 Growing in advanced analytics and AI
+- 📊 Turning analysis into actionable strategies
+- ⚙️ Building reproducible and well-structured solutions
+- 🚀 Growing in advanced analytics and AI
 
-🌱 Currently learning
-Advanced Machine Learning
-Cloud analytics with AWS
-Best practices for production-ready Data Science projects
+## 🌱 Currently learning
+- Advanced Machine Learning
+- Cloud analytics with AWS
+- Best practices for production-ready Data Science projects
 
-💡 I’m interested in collaborating on
-Projects related to:
-Data analysis
-Predictive modeling
-Data visualization
-Real-world AI applications
+## 💡 I’m interested in collaborating on
+- Projects related to:
+- Data analysis
+- Predictive modeling
+- Data visualization
+- Real-world AI applications
 
 If you have an interesting idea or project, I’d love to be part of it 🤝
 
