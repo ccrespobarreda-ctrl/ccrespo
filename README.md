@@ -7,7 +7,7 @@ Passionate about Data Science and turning information into business decisions, I
 - 🚀 Continuously growing in advanced analytics and AI
   
 
-💡 I’m interested in collaborating on
+💡 I’m interested in collaborating on:
 - Data analysis
 - Predictive modeling
 - Data visualization
