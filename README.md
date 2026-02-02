@@ -1,4 +1,4 @@
-# Hi, there I'm Cristina 👋
+# Hi, I'm Cristina 👋
 
 Passionate about Data Science, continuous learning, and turning data into smart decisions. I enjoy tackling complex problems, finding patterns where others see only numbers, and building solutions that create real impact.
 
