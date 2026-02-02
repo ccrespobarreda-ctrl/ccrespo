@@ -1,48 +1,36 @@
-# Hi, there 👋
+# Hi, there I'm Cristina 👋
 
- About me
- 
+Passionate about Data Science, continuous learning, and turning data into smart decisions. I enjoy tackling complex problems, finding patterns where others see only numbers, and building solutions that create real impact.
 
+I work at the intersection of data, business, and technology, developing machine learning models, deeply exploring information, and communicating insights in a way that actually drives action.
 
-Apasionada por el Data Science, el aprendizaje constante y por convertir datos en decisiones inteligentes. Disfruto enfrentándome a problemas complejos, encontrar patrones donde otros solo ven números y construir soluciones que aporten impacto real.
+What motivates me most:
+🧠 Understanding the why behind the data
+📊 Turning analysis into actionable strategies
+⚙️ Building reproducible and well-structured solutions
+🚀 Growing in advanced analytics and AI
 
-Trabajo en la intersección entre datos, negocio y tecnología, desarrollando modelos de machine learning, explorando información a fondo y comunicando resultados de forma clara para que realmente se puedan usar.
+🌱 Currently learning
+Advanced Machine Learning
+Cloud analytics with AWS
+Best practices for production-ready Data Science projects
 
-Me motiva especialmente:
-🧠 Entender el por qué detrás de los datos
-📊 Transformar análisis en estrategias accionables
-⚙️ Crear soluciones reproducibles y bien estructuradas
-🚀 Seguir creciendo en el mundo de la analítica avanzada y la IA
+💡 I’m interested in collaborating on
+Projects related to:
+Data analysis
+Predictive modeling
+Data visualization
+Real-world AI applications
 
-🌱 Actualmente aprendiendo
+If you have an interesting idea or project, I’d love to be part of it 🤝
 
-Machine Learning más avanzado
-
-Analítica en la nube (AWS)
-
-Mejores prácticas de proyectos de Data Science
-
-💡 Me interesa colaborar en
-
-Proyectos relacionados con:
-
-Análisis de datos
-
-Modelos predictivos
-
-Visualización de datos
-
-Aplicaciones reales de IA
-
-Si tienes una idea interesante o un proyecto en marcha, ¡me encantará sumarme! 🤝
-
-🛠️ Tecnologías con las que trabajo
+🛠️ Tech I work with
 
 Python · Pandas · Scikit-Learn · SQL · PySpark · SHAP
 Power BI · Tableau · Git · AWS (S3, EC2)
 
-📫 Conecta conmigo
+📫 Let’s connect
 
-Siempre estoy abierta a aprender, compartir conocimiento y explorar nuevas oportunidades.
+I’m always open to learning, sharing knowledge, and exploring new opportunities.
 
 📫 Reach out to me at: c.crespobarreda@gmail.com
