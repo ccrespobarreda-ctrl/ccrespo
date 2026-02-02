@@ -7,7 +7,6 @@ I work at the intersection of data, business, and technology, developing machine
 What motivates me most:
 
 🧠 Understanding the why behind the data
-
 📊 Turning analysis into actionable strategies
 ⚙️ Building reproducible and well-structured solutions
 🚀 Growing in advanced analytics and AI
