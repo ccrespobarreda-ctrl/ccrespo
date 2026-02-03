@@ -18,3 +18,4 @@ Passionate about Data Science and turning information into business decisions, I
 Always open to learning, sharing knowledge, and exploring new opportunities 🤝
 
 ## My Skills Include
+(https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
